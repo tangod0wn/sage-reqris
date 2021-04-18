@@ -15,7 +15,7 @@ Install dependencies with `npm install` or `npm ci`
 
 See scripts in `package.json` for the complete list. 
 
-###note: user credentials used for the API test are stored seperately in the cypress.json file which would never normally be committed, though since it's tests /non sensitive-data I've included it in the repo. 
+### Note: user credentials used for the API test are stored seperately in the cypress.json file which would never normally be committed, though since it's tests /non sensitive-data I've included it in the repo. 
 
 * `npm run cy:open` - runs Cypress in GUI mode
 * `npm test` - starts the local API server and runs Cypress tests against it in headless mode
