@@ -7,7 +7,7 @@ Cypress test runner GUI:
 ![API testing using Cypress](images/reqres.png)
 
 
-I've created a public Dashboard with all test run stats: https://dashboard.cypress.io/projects/o8cz1j/analytics/runs-over-time
+I've created a public Dashboard with all test run stats here: https://dashboard.cypress.io/projects/o8cz1j/analytics/runs-over-time
 
 ## Installation:
 
