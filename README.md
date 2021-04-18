@@ -1,17 +1,15 @@
-# cypress-example-api-testing
+# cypress-reqris-api-testing
 
-> [Cypress](https://cypress.op) E2E runner can also test Rest and other APIs
+> [Cypress](https://cypress.op) Cypress is a next generation JS testing framework built for the modern web.
 
-[![CircleCI](https://circleci.com/gh/cypress-io/cypress-example-api-testing.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress-example-api-testing) [![renovate-app badge][renovate-badge]][renovate-app]
+Cypress test runner GUI: 
 
 ![API testing using Cypress](images/reqres.png)
 
-[renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
-[renovate-app]: https://renovateapp.com/
 
-See related blog post [Add GUI to your E2E API tests](https://www.cypress.io/blog/2017/11/07/add-gui-to-your-e2e-api-tests/)
+I've created a public Dashboard with all test run stats: https://dashboard.cypress.io/projects/o8cz1j/analytics/runs-over-time
 
-## Use
+## Installation:
 
 Install dependencies with `npm install` or `npm ci`
 

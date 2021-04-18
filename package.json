@@ -1,5 +1,5 @@
 {
-  "name": "cypress-example-api-testing",
+  "name": "cypress-reqres-api-testing",
   "version": "1.0.0",
   "description": "Cypress E2E runner can also test Rest and other APIs",
   "main": "index.js",

@@ -1,6 +1,5 @@
 /// <reference types="Cypress" />
-describe("Form test", () => {
-  //
+describe("Create, delete, update user with additional data and verify the response matches what is expected", () => {
 
 context('Reqres API test', () => {
 
@@ -122,9 +121,8 @@ context('Reqres API test', () => {
         expect(res.status).to.eq(200)
         expect(res.body).to.not.be.null
         expect(res.body.data).to.not.include("morpheus lennord")
-      }))
-    })
-
- 	 })
+         }))
+       })
+ 	   })
    })
 });
